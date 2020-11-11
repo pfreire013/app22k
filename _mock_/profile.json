@@ -1,0 +1,13 @@
+{
+  "message": "",
+  "data": {
+    "profileId": 1,
+    "humor": true,
+    "myHeartCount": 200,
+    "partnerHeartCount": 190,
+    "partnerId": 2,
+    "ImageUrl": "",
+    "partnerMessage": "",
+    "partnerHot": false
+  }
+}
